@@ -1,3 +1,3 @@
 # Haskell
 
-Samples of functional programming written in haskell.
+Functional programs written in haskell.
